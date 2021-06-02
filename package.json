@@ -1,7 +1,12 @@
 {
-  "name": "asset-app",
-  "version": "0.1.0",
+  "name": "iot-suite-portal-asset",
+  "version": "1.0.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tuya/iot-suite-portal-asset.git"
+  },
+  "license": "MIT",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
